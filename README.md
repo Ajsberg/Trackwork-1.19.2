@@ -8,3 +8,5 @@ I know almost nothing about programming and was just following this [tutorial](h
 Original mod by Endalion [here](https://github.com/Endalion/trackwork) (If the author has problems with me doing anything with this mod please contact me on Discord: iceberg3176)
 
 Assets are from [Create Mod](https://github.com/Creators-of-Create/Create)
+
+I also don't have much experience using Github so don't try to kill me over that.
