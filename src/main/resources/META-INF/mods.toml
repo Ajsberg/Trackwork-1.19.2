@@ -16,6 +16,7 @@ authors="[Endalion]" #optional
 description='''
 Adds track blocks that work with VS2 physics.
 Warranty void if suspension springs are compressed
+Ported to 1.19.2 by Ajsberg
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.trackwork]] #optional
@@ -24,7 +25,7 @@ Warranty void if suspension springs are compressed
     # Does this dependency have to exist - if not, ordering below must be specified
     mandatory=true #mandatory
     # The version range of the dependency
-    versionRange="[40.2,)" #mandatory
+    versionRange="[43.2,)" #mandatory
     # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
     ordering="NONE"
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
@@ -33,7 +34,7 @@ Warranty void if suspension springs are compressed
 [[dependencies.trackwork]]
     modId = "minecraft"
     mandatory = true
-    versionRange = "1.18.2"
+    versionRange = "1.19.2"
     ordering = "NONE"
     side = "BOTH"
 
