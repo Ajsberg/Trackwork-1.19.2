@@ -1,6 +1,8 @@
 # Trackwork-1.19.2
 Unofficial fork of Create/Valkyrien Skies addon Trackwork for Minecraft Forge 1.19.2
 
+Tested and working on Minecraft 1.19.2 Forge version 43.4.2.
+
 I'm not planning on updating/bugixing this repo and whatever is inside it. Feel free to do as you please with contents of this repo. All questions for updates/bugfixes will be ignored so please don't bother. I just wanted to feel useful for once.
 
 I know almost nothing about programming and was just following this [tutorial](https://www.youtube.com/watch?v=du2gINiZzOc). If it doesn't work on your end please don't come to me, I just wanted to play with Trackwork in my modpack on 1.19.2.
